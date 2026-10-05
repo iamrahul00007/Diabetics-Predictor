@@ -1,5 +1,4 @@
 # Diabetics-Predictor
-Here’s a complete **README.md** template tailored for your project. It’s structured, professional, and GitHub‑ready:
 
 ---
 
